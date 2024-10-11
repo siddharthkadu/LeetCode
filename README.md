@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharthkadu/LeetCode/tree/master/0001-two-sum) |
 | [1002-maximum-width-ramp](https://github.com/siddharthkadu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddharthkadu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Stack
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharthkadu/LeetCode/tree/master/0001-two-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddharthkadu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
 |  |
