@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthkadu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1002-maximum-width-ramp](https://github.com/siddharthkadu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddharthkadu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -35,4 +36,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthkadu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Greedy
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Sorting
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
