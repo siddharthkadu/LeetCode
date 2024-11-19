@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/siddharthkadu/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/siddharthkadu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/siddharthkadu/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddharthkadu/LeetCode/tree/master/0001-two-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddharthkadu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/siddharthkadu/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/siddharthkadu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/siddharthkadu/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
