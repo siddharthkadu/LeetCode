@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddharthkadu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/siddharthkadu/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/siddharthkadu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2232-adding-spaces-to-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/siddharthkadu/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddharthkadu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/siddharthkadu/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/siddharthkadu/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2232-adding-spaces-to-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
@@ -90,8 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/siddharthkadu/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/siddharthkadu/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
