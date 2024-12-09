@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/siddharthkadu/LeetCode/tree/master/0263-ugly-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/siddharthkadu/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
