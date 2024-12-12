@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddharthkadu/LeetCode/tree/master/0020-valid-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/siddharthkadu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/siddharthkadu/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3447-clear-digits](https://github.com/siddharthkadu/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/siddharthkadu/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/siddharthkadu/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3447-clear-digits](https://github.com/siddharthkadu/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/siddharthkadu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3447-clear-digits](https://github.com/siddharthkadu/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
