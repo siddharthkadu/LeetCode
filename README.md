@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/siddharthkadu/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/siddharthkadu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/siddharthkadu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/siddharthkadu/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/siddharthkadu/LeetCode/tree/master/3427-special-array-ii) |
 ## Stack
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddharthkadu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddharthkadu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/siddharthkadu/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/siddharthkadu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/siddharthkadu/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
@@ -86,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddharthkadu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/siddharthkadu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/siddharthkadu/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/siddharthkadu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/siddharthkadu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/siddharthkadu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/siddharthkadu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/siddharthkadu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3447-clear-digits](https://github.com/siddharthkadu/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
