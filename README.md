@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/siddharthkadu/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/siddharthkadu/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/siddharthkadu/LeetCode/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharthkadu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/siddharthkadu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/siddharthkadu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/siddharthkadu/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharthkadu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/siddharthkadu/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/siddharthkadu/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3447-clear-digits](https://github.com/siddharthkadu/LeetCode/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharthkadu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/siddharthkadu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddharthkadu/LeetCode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/siddharthkadu/LeetCode/tree/master/0263-ugly-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharthkadu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
 |  |
 | ------- |
