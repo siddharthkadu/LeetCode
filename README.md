@@ -203,4 +203,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/siddharthkadu/LeetCode/tree/master/2868-continuous-subarrays) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
