@@ -211,22 +211,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/siddharthkadu/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/siddharthkadu/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/siddharthkadu/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/siddharthkadu/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/siddharthkadu/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/siddharthkadu/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
