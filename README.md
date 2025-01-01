@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/siddharthkadu/LeetCode/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/siddharthkadu/LeetCode/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/siddharthkadu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/siddharthkadu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddharthkadu/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/siddharthkadu/LeetCode/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/siddharthkadu/LeetCode/tree/master/0263-ugly-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharthkadu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
