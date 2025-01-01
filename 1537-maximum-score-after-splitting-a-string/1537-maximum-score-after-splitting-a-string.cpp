@@ -1,34 +1,45 @@
 class Solution {
 public:
+
+
+  //It is beeter approch than previous i have solve 
     int maxScore(string s) {
-        int n = s.size();
-        int res = 0;
 
-        int count_zero_left = 0;
-        int count_one_right = 0;
 
-        // Split it into two portions
-        for (int i = 0; i <= n - 2; i++) {
-            // Count 0 to i for the number of zeros
-            count_zero_left = 0; // Reset count for each split
-            for (int j = 0; j <= i; j++) {
-                if (s[j] == '0') { // Fixed comparison to use single quotes
-                    count_zero_left++;
-                }
+        int total_one=0;
+        int zero=0;
+        int one=0;
+        int res=0;
+        int n=s.size();
+    // count no of zero's and no of one's simultenously 
+
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='1'){
+                total_one++;
             }
-
-            // Count i+1 to n-1 for the number of ones
-            count_one_right = 0; // Reset count for each split
-            for (int j = i + 1; j <= n - 1; j++) {
-                if (s[j] == '1') { // Fixed comparison to use single quotes
-                    count_one_right++;
-                }
-            }
-
-            // Update the result with the maximum score
-            res = max(res, count_zero_left + count_one_right);
         }
 
-        return res;
+       
+
+
+        for(int i=0;i<=n-2;i++){
+            if(s[i]=='0'){
+                zero++;
+            }
+            
+            if(s[i]=='1'){
+                one++;
+            }
+
+         res=max(res,(zero+(total_one-one)));
+
+        }
+        
+        
+
+            
+return res;
+        
+        
     }
 };
