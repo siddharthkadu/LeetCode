@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/siddharthkadu/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/siddharthkadu/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/siddharthkadu/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0841-shortest-distance-to-a-character](https://github.com/siddharthkadu/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/siddharthkadu/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/siddharthkadu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/siddharthkadu/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/siddharthkadu/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/siddharthkadu/LeetCode/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/siddharthkadu/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/siddharthkadu/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/siddharthkadu/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/siddharthkadu/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/siddharthkadu/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/siddharthkadu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/siddharthkadu/LeetCode/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/siddharthkadu/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/siddharthkadu/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/siddharthkadu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/siddharthkadu/LeetCode/tree/master/1524-string-matching-in-an-array) |
