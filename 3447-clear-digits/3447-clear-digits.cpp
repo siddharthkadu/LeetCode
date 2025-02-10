@@ -1,28 +1,29 @@
-
-    
 class Solution {
 public:
     string clearDigits(string s) {
-        stack<char> st; // To track non-digit characters
-        for (char ch : s) {
-            if (isdigit(ch)) {
-                // If the current character is a digit, remove the closest non-digit from the stack
-                if (!st.empty()) {
-                    st.pop(); // Remove the closest non-digit
-                }
-            } else {
-                // If the character is not a digit, add it to the stack
-                st.push(ch);
-            }
-        }
+       stack<char> st;
 
-        // Construct the result string from the stack
-        string result = "";
-        while (!st.empty()) {
-            result += st.top();            
-            st.pop();
+    for (char c : s) {
+        if (isdigit(c)) {  
+            // Remove the closest non-digit character if the stack is not empty
+            if (!st.empty() && !isdigit(st.top())) {
+                st.pop();
+            }
+        } else {
+            st.push(c);  // Push non-digit characters
         }
-        reverse(result.begin(), result.end()); // Reverse to get the correct order
-        return result;
     }
-};
+
+    // Construct the resulting string from the stack
+    string result;
+    while (!st.empty()) {
+        result = st.top() + result;
+        st.pop();
+    }
+
+    return result;
+}
+    
+};    
+
+
