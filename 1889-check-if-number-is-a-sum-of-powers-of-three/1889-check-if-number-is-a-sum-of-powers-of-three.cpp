@@ -15,9 +15,9 @@ public:
 
       
         while (x >= 0) {
-            int powVal = pow(3, x);
-            if (powVal <= n) {
-                n -= powVal;
+            int pow_val = pow(3, x);
+            if (pow_val <= n) {
+                n =n-pow_val;
                 res.push_back(x);
             }
             x--;
