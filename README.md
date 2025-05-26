@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddharthkadu/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthkadu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/siddharthkadu/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/siddharthkadu/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthkadu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/siddharthkadu/LeetCode/tree/master/0283-move-zeroes) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/siddharthkadu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddharthkadu/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/siddharthkadu/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/siddharthkadu/LeetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/siddharthkadu/LeetCode/tree/master/0263-ugly-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/siddharthkadu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/siddharthkadu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
